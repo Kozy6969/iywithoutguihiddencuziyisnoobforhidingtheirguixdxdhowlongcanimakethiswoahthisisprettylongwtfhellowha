@@ -164,7 +164,7 @@ PARENT = nil
 	Main.Name = randomString()
 	Main.Parent = COREGUI
 	PARENT = Main
-
+getgenv().muainananana = PARENT
 shade1 = {}
 shade2 = {}
 shade3 = {}
